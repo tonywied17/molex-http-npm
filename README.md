@@ -5,18 +5,18 @@
 <h1 align="center">zero-server</h1>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@zero-server/sdk"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-sdk-name-zserver.svg?v=18d4e9a4" alt="@zero-server/sdk"></a>
-  <a href="https://www.npmjs.com/package/@zero-server/sdk"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-npm-zserver.svg?v=f9009a13" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/@zero-server/sdk"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-dm-zserver.svg?v=1d29d0dd" alt="npm downloads"></a>
+  <a href="https://www.npmjs.com/package/@zero-server/sdk"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-sdk-name-zserver.svg?v=156faa5f" alt="@zero-server/sdk"></a>
+  <a href="https://www.npmjs.com/package/@zero-server/sdk"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-npm-zserver.svg?v=548ee6fe" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/@zero-server/sdk"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-downloads-zserver.svg?v=80b3b4ac" alt="npm downloads"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/molexxxx/zero-server/actions/workflows/ci.yml"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-ci-zserver.svg?v=f09fb8a3" alt="CI"></a>
-  <a href="https://github.com/molexxxx/zero-server/actions"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-tests-zserver.svg?v=3a8e5d37" alt="tests"></a>
-  <a href="https://github.com/molexxxx/zero-server"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-coverage-zserver.svg?v=fdecde38" alt="coverage"></a>
-  <a href="https://z-server.dev"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-docs-zserver.svg?v=00dc1cc0" alt="docs"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-license-zserver.svg?v=92c4db7f" alt="license"></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-node-zserver.svg?v=c0f8c528" alt="node >=18"></a>
+  <a href="https://github.com/molexxxx/zero-server/actions/workflows/ci.yml"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-ci-zserver.svg?v=27778792" alt="CI"></a>
+  <a href="https://github.com/molexxxx/zero-server/actions"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-tests-zserver.svg?v=b659ef8d" alt="tests"></a>
+  <a href="https://github.com/molexxxx/zero-server"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-coverage-zserver.svg?v=d2449d60" alt="coverage"></a>
+  <a href="https://z-server.dev"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-docs-zserver.svg?v=1055375c" alt="docs"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-license-zserver.svg?v=5122af14" alt="license"></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/molexxxx/molexxxx/main/.github/badges/zero-server-node-zserver.svg?v=2f57d63f" alt="node >=18"></a>
 </p>
 
 > **Zero-dependency backend framework for Node.js - routing, ORM, auth, WebSocket, SSE, observability, and 20+ middleware as one SDK or focused scoped packages.**
